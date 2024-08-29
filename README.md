@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danyal Khattak</h1>
 - 🔭 I’m currently working on **transitioning to DevOps and Cybersecurity | Building hands-on projects using tool like Docker, Kubernetes, Ansible and Terraform.**
 
-- 🌱 I’m currently learning **AWS, Azure | DevOps tools like Docker, Python automation, Bash scripting, Kubernetes, Terraform, Ansible and Pyhton Flask. | Cybersecurity fundamentals with a focus on ethical hacking web and network security.**
+- 🌱 I’m currently learning **AWS, Azure | DevOps tools like Docker, Python automation,Git, GitLab, Bash scripting, Kubernetes, Terraform, Ansible and Pyhton Flask. | Cybersecurity fundamentals with a focus on ethical hacking web and network security.**
 
 - 👯 I’m looking to collaborate on **DevOps and Cybersecurity | Any project focusing on the automating infrastructure and securing application.**
 
